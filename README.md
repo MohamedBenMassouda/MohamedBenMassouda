@@ -3,8 +3,7 @@
 About Me:
 
 - 🔭 I’m Software Developer / Engineer
-- 🌱 I’m currently studying Computer Science
-- 👨‍🎓 I'm currently a student
+- 👨‍🎓 I’m currently studying Computer Science
 - 💻 Loves Coding
 - 🎮 Gamer
 - 🏃‍♂ Mostly Active🤸‍
@@ -15,6 +14,7 @@ I would love to:
 - Be Mentored
 - Work together
 - Learn new things
+- Start a new Journey
 
 Let's get in touch:
 - <a href="mailto:benmassoudamohamed2@gmail.com">Email</a>
