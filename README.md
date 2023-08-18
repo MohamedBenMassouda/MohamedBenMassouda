@@ -18,4 +18,5 @@ I would love to:
 
 Let's get in touch:
 - <a href="mailto:benmassoudamohamed2@gmail.com">Email</a>
+- <a href="https://www.linkedin.com/in/mohamed-ben-massouda-ab5404225/">LinkedIn</a>
 - <a href="https://www.instagram.com/mohamedbenmassouda/">Instagram</a>
