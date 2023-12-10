@@ -22,4 +22,4 @@ Let's get in touch:
 - <a href="https://www.instagram.com/mohamedbenmassouda/">Instagram</a>
 
 Check Out my Resume/CV:
-- <a href="https://drive.google.com/file/d/1heUSLp9pII07BgrvVo6_iwA2oYbOXYVC/view?usp=drive_link">Resume</a>
+- <a href="https://drive.google.com/file/d/1e2Zvn54k2n6mrBwBdY2hep9Z2RbT6yDM/view?usp=sharing">Resume</a>
