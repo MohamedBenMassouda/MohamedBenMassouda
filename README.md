@@ -21,4 +21,4 @@ Let's get in touch:
 - <a href="https://www.linkedin.com/in/mohamed-ben-massouda/">LinkedIn</a>
 
 Check Out my Resume/CV:
-- <a href="https://drive.google.com/file/d/1e2Zvn54k2n6mrBwBdY2hep9Z2RbT6yDM/view?usp=sharing">Resume</a>
+- <a href="https://drive.google.com/file/d/1jD9NDwZg1zTdJdzJ1h4jRyz_UGdTgXn8/view?usp=sharing">Resume</a>
